@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["brandslider"],{"9KUx":function(n,i,d){},vufp:function(n,i,d){"use strict";d.r(i);d("9KUx");$((function(){$(".brand-slider .sliderBlock").slick({lazyLoad:"anticipated",dots:!0})}))}},[["vufp","runtime"]]]);
