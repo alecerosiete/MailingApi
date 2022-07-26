@@ -98,9 +98,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			Catatrepa Email API
 		</H1>
 		<div id="body">
-			<p>The page you are looking at is being generated dynamically by CatatrepaEmailApi.</p>
+			<p>Acceda <a href="welcome/doc/">aqu&iacute;</a>. para ver la documentacion completa</p>
 
-			<p>If you are exploring our API for the very first time, you should start by reading the <a href="welcome/doc/">User Guide</a>.</p>
+			
 		</div>
 
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
